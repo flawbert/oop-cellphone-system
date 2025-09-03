@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qWbOSlqZI20=",
+  "dgSpecHash": "9U5jLT5Tva0=",
   "success": true,
   "projectFilePath": "/home/flawbert/oop-cellphone-system/DesafioPOO.csproj",
-  "expectedPackageFiles": [
-    "/home/flawbert/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/home/flawbert/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "/home/flawbert/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
